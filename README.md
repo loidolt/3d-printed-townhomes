@@ -1,53 +1,38 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 11/4/2018
+tags: 3DPrinting CNC
+description: More 3D printed homes, except this time it's townhomes and they are way more complex.
+slug: 3d-printed-townhomes
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# 3D Printed Townhomes
+
+More 3D printed homes, except this time it's townhomes and they are way more complex.
 
 ## Table of Contents
-- [Title](#title)
+
+- [3D Printed Townhomes](#3d-printed-townhomes)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
   - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+These 3D Printed floor plans and the CNC carved terrain they fit in provide a tactile way to show a buyer what they are purchasing and how it will look after it's built.
+
+The final floor plans were SLA 3D printed in white nylon plastic. The base was CNC carved from walnut wood with alignment magnets to hold the floor plans in place.
+
+Again, no files or repository for this project. These designs are the intellectual property of Classic Homes.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+- Fusion 360
+- SLS 3D Printing
+- CNC
 
 ## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+[Classic Homes](https://classichomes.com)

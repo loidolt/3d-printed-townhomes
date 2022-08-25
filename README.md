@@ -1,7 +1,7 @@
 ---
 published: true
 status: complete
-date: 11/4/2018
+date: 5/30/2019
 tags: 3DPrinting CNC
 description: More 3D printed homes, except this time it's townhomes and they are way more complex.
 slug: 3d-printed-townhomes
